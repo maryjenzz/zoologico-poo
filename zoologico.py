@@ -70,9 +70,8 @@ class Filha(Pessoa):
     def reagir(self, animal):
         print(f"A Filha observa o {animal.__class__.__name__} com cautela e mantém distância.\n")
 
-# ------------------------------
+
 # Teste de polimorfismo no Zoológico
-# ------------------------------
 
 # Família
 mae = Mae()
